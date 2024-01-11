@@ -65,4 +65,4 @@ Find the programs in the folder "src". Here an overview of how they work.
 * Output: 
   * the  biggest diagnosis eigenvalue which has an infinite critical length.
   
-**Remark:** critical_length.py gives more information (check all eigenvalues, not only the diagnosis ones) than diagnosis_eigenvalue.py, but the latter can check way further in a reasonnable time.
+**Remark:** critical_length.jl gives more information (check all eigenvalues, not only the diagnosis ones) than diagnosis_eigenvalue.jl, but the latter can check way further in a reasonnable time.
